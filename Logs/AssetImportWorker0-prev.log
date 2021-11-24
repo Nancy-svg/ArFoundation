@@ -1,0 +1,203 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.23f1 (c5d91304a876) revision 12966163'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Pro; OS build 19042.1348; Version 2009; 64bit' Language: 'ru' Physical Memory: 8122 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.3.23f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/79027/Desktop/5 sem/mobilki/ARFoundationNext
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+54252
+Successfully changed project path to: C:/Users/79027/Desktop/5 sem/mobilki/ARFoundationNext
+C:/Users/79027/Desktop/5 sem/mobilki/ARFoundationNext
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 312.47 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.23f1 (c5d91304a876)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.23f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/79027/Desktop/5 sem/mobilki/ARFoundationNext/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1650 SUPER (ID=0x2187)
+    Vendor:   
+    VRAM:     3955 MB
+    Driver:   27.21.14.6192
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.23f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.23f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.23f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56200
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.23f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.002870 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 42.14 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.797 seconds
+Domain Reload Profiling:
+	ReloadAssembly (797ms)
+		BeginReloadAssembly (129ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (0ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (1ms)
+		EndReloadAssembly (579ms)
+			LoadAssemblies (126ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (214ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (32ms)
+			SetupLoadedEditorAssemblies (194ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (5ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (42ms)
+				BeforeProcessingInitializeOnLoad (19ms)
+				ProcessInitializeOnLoadAttributes (93ms)
+				ProcessInitializeOnLoadMethodAttributes (34ms)
+				AfterProcessingInitializeOnLoad (0ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (0ms)
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.115536 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 44.41 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.376 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1397ms)
+		BeginReloadAssembly (167ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (6ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (19ms)
+		EndReloadAssembly (1106ms)
+			LoadAssemblies (122ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (355ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (50ms)
+			SetupLoadedEditorAssemblies (399ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (4ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (45ms)
+				BeforeProcessingInitializeOnLoad (110ms)
+				ProcessInitializeOnLoadAttributes (219ms)
+				ProcessInitializeOnLoadMethodAttributes (11ms)
+				AfterProcessingInitializeOnLoad (10ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (9ms)
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.11 seconds
+Refreshing native plugins compatible for Editor in 0.47 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1936 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 83.6 MB.
+System memory in use after: 83.7 MB.
+
+Unloading 21 unused Assets to reduce memory usage. Loaded Objects now: 2369.
+Total: 3.282200 ms (FindLiveObjects: 0.208500 ms CreateObjectMapping: 0.047100 ms MarkObjects: 2.942300 ms  DeleteObjects: 0.083100 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  path: Assets/Resources/Prefabs/SuperPowersParticle.prefab
+  artifactKey: Guid(a30a77999e992455db5633f1057f2d26) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Prefabs/SuperPowersParticle.prefab using Guid(a30a77999e992455db5633f1057f2d26) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '16290ad46994c537cec49daf700e2146') in 0.174803 seconds 
+  Import took 0.186446 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 15.421390 seconds.
+  path: Assets/Materials/Prefabs/AR Plane Visualizer.prefab
+  artifactKey: Guid(0e5179c5140c8e5499ef6424f50e4171) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Prefabs/AR Plane Visualizer.prefab using Guid(0e5179c5140c8e5499ef6424f50e4171) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '456a3e20d89c84486a8c77d25b316f40') in 0.046310 seconds 
+  Import took 0.063077 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.320307 seconds.
+  path: Assets/Materials/Prefabs/AR Plane Visualizer.prefab
+  artifactKey: Guid(0e5179c5140c8e5499ef6424f50e4171) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Prefabs/AR Plane Visualizer.prefab using Guid(0e5179c5140c8e5499ef6424f50e4171) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c88a8d8dfde6d84e6710a0fa62160c61') in 0.035023 seconds 
+  Import took 0.055725 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.022726 seconds.
+  path: Assets/Materials/Prefabs/AR Plane Visualizer.prefab
+  artifactKey: Guid(0e5179c5140c8e5499ef6424f50e4171) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Prefabs/AR Plane Visualizer.prefab using Guid(0e5179c5140c8e5499ef6424f50e4171) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3ace437c6282854dfb72ef339359ef75') in 0.010831 seconds 
+  Import took 0.014242 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.170479 seconds.
+  path: Assets/Materials/Prefabs/AR Plane Visualizer.prefab
+  artifactKey: Guid(0e5179c5140c8e5499ef6424f50e4171) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Prefabs/AR Plane Visualizer.prefab using Guid(0e5179c5140c8e5499ef6424f50e4171) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '97f0b99dca222ff11059a30a6eafec88') in 0.009371 seconds 
+  Import took 0.026923 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.830600 seconds.
+  path: Assets/Materials/Prefabs/AR Plane Visualizer.prefab
+  artifactKey: Guid(0e5179c5140c8e5499ef6424f50e4171) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Prefabs/AR Plane Visualizer.prefab using Guid(0e5179c5140c8e5499ef6424f50e4171) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '93f3db203a680d3117077a586b87b99e') in 0.008726 seconds 
+  Import took 0.011989 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.797349 seconds.
+  path: Assets/Materials/Prefabs/AR Plane Visualizer.prefab
+  artifactKey: Guid(0e5179c5140c8e5499ef6424f50e4171) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Prefabs/AR Plane Visualizer.prefab using Guid(0e5179c5140c8e5499ef6424f50e4171) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8cc7e223a36db00c3e0ed0da978d4127') in 0.053863 seconds 
+  Import took 0.075503 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.674655 seconds.
+  path: Assets/Materials/Prefabs/AR Plane Visualizer.prefab
+  artifactKey: Guid(0e5179c5140c8e5499ef6424f50e4171) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Prefabs/AR Plane Visualizer.prefab using Guid(0e5179c5140c8e5499ef6424f50e4171) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c54adaa07dc7c143e9ac2cbaecc49d47') in 0.009120 seconds 
+  Import took 0.017547 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.442691 seconds.
+  path: Assets/Materials/Prefabs/AR Plane Visualizer.prefab
+  artifactKey: Guid(0e5179c5140c8e5499ef6424f50e4171) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Prefabs/AR Plane Visualizer.prefab using Guid(0e5179c5140c8e5499ef6424f50e4171) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '271e8c6c270883ef19b07bcb948a4a17') in 0.009173 seconds 
+  Import took 0.012451 seconds .
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
